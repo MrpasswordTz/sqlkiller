@@ -8,7 +8,7 @@ from modules.uagent import user_agents  # Import the user_agents list
 
 
 # Define the logo
-logo = """
+logo = '''
   ____        _ _    _ _ _           
  / ___|  __ _| | | _(_) | | ___ _ __ 
  \___ \ / _` | | |/ / | | |/ _ \ '__|
@@ -19,7 +19,7 @@ logo = """
                               v01
 
 by MrpasswordTz
-"""
+'''
 
 # Color codes for terminal output
 RED = "\033[91m"    # Critical vulnerability
