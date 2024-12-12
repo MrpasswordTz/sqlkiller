@@ -1,3 +1,5 @@
+<img src ="https://github.com/MrpasswordTz/sqlkiller/blob/main/modules/banner/Screenshot_20241212_205517_NetHunter%20Terminal.jpg"> 
+
 # sqlkiller
 SQLKiller is a powerful and easy-to-use Python tool designed to automate SQL injection attacks. Compatible with both Linux and Termux, this tool is perfect for penetration testers and security enthusiasts looking to identify and exploit SQL injection vulnerabilities in web applications.
 
