@@ -10,3 +10,12 @@ SQLKiller is a powerful and easy-to-use Python tool designed to automate SQL inj
 <li>Cross-Platform Compatibility: SQLKiller is compatible with both Linux and Termux, making it accessible on a wide range of devices.</li>
 
 <li>Powerful Payloads: SQLKiller comes with a range of powerful payloads about(10,000) that can be used to exploit SQL injection vulnerabilities.</li>
+
+# How to Use:
+<ol>
+<li>Clone the repository and install the required dependencies.</li>
+
+<li>Run the tool using the provided command.</li>
+
+<li>Enter the target URL and follow the prompts to begin the attack</li>
+</ol>
