@@ -20,11 +20,22 @@ SQLKiller is a powerful and easy-to-use Python tool designed to automate SQL inj
 <li>Enter the target URL and follow the prompts to begin the attack</li>
 </ol>
 
-# installation 
+# installation
 ```
 apt update
-apt installation python3
 
+apt install python3
+
+git clone https://github.com/MrpasswordTz/sqlkiller.git
+
+cd sqlkiller
+
+chmod +x Setup.sh
+
+./setup.sh
+
+python3 sqlkiller.py
+```
 
 # Requirements:
 
