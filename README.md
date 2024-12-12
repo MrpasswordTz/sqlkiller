@@ -30,9 +30,7 @@ git clone https://github.com/MrpasswordTz/sqlkiller.git
 
 cd sqlkiller
 
-chmod +x Setup.sh
-
-./setup.sh
+pip install -r requirements.txt
 
 python3 sqlkiller.py
 ```
